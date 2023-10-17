@@ -4,7 +4,7 @@ const membersList = [
     fullName: "James Phelan",
     title: "Co-President, Project Lead",
     imageName: "jimmy-pic.jpg",
-    bio: "Jimmy is a sophomore from Marin County, CA, pursuing a concentration in Applied Mathematics Computer Science specifically interested in Security and Data Science. Jimmy has spent his past summer teaching math and computer science. After graduating, Jimmy hopes to apply his knowledge to a role in the intersection between business and technology. Outside of the classroom, Jimmy is currently a cadet in Army ROTC and is also a member of the Brown University Men’s Rugby team. In his free time, Jimmy enjoys surfing, eating, playing sports, and chess.",
+    bio: "Jimmy is a sophomore from Marin County, CA, pursuing a concentration in Applied Mathematics Computer Science specifically interested in Security and Data Science. After graduating, Jimmy hopes to apply his knowledge to a role in the intersection between business and technology. Outside the classroom, Jimmy is a cadet in Army ROTC and is also a member of the Brown University Men’s Rugby team. In his free time, Jimmy enjoys surfing, eating, playing sports, and chess.",
   },
   {
     id: 2,
