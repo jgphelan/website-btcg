@@ -70,6 +70,13 @@ const membersList = [
     bio: "Kylash is a sophomore from Easton, MA, pursuing a dual concentration in Applied Math-Economics and Computer Science. Interested in the intersection between finance and technology, Kylash is an Analyst for the Socially Responsible Investment Fund and has attended several hackathons. He also manages a 5-figure budget and plans career-driven workshops as Head of Business for the Intercollegiate Finance Journal. Outside of the classroom, Kylash enjoys eating Italian food, playing basketball with friends, and journaling.",
   },
   {
+    id: 11,
+    fullName: "Justin Dyer",
+    title: "Senior Associate",
+    imageName: "justin-pic.jpg",
+    bio: "Justin '25 concentrates on Environmental Studies and Economics. He is interested in enterprise software and early-stage consulting. He is curious about the application of SaaS for sustainability goals. Outside of BTCG, Justin is the founder and president of Sustainable Business Society and an active member of the Men's Rugby team."
+  },
+  {
     id: 12,
     fullName: "Sam Shulman",
     title: "Senior Associate",
@@ -188,6 +195,13 @@ const membersList = [
     imageName: "vinh-pic.PNG",
     bio: "Vinh is a sophomore from Miami, FL pursuing a double concentration in CS-Econ as well as Engineering. Vinh's academic interests converge at the intersection of technology and economics, where he has been extensively working on projects with the French Government, as well as International Olympic committee. Outside of the classroom, Vinh plays for the Brown Men's Rugby Team, and loves to ski and sail. As a Frenchman, Vinh is a gastronomic connoisseur, and would never turn down an invitation to some cheeky beverages or hors d'oeuvres.",
   },
+  {
+    id: 29,
+    fullName: "Santiago Cortabarria",
+    title: "Junior Associate",
+    imageName: "santi-pic.jpg",
+    bio: "Santiago is a Junior from Miami, Florida pursuing a degree in Computer Science as well as Applied Mathematics. Santiago most recently worked as a Software Developer Intern at General Motors. Outside of the classroom, Santiago enjoys playing sports and is a member of the Brown Men's Rugby Club.",
+  }
 ];
 
 export default membersList;
