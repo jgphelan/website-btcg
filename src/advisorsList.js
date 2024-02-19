@@ -48,6 +48,13 @@ const advisorsList = [
     imageName: "gidget-pic.jpeg",
     bio: "Gidget is a Senior from New York, NY pursuing a double concentration in International and Public Affairs with a focus in international security and Economics. She currently works on the business teams of the Brown Political Review and the Intercollegiate Finance Journal. In her free time, she enjoys learning languages, skiing, cooking, traveling, and playing viola.",
   },
+  {
+    id: 8,
+    fullName: "Andrew Liddle",
+    title: "Senior Advisor",
+    imageName: "andrew-pic.png",
+    bio: "Andrew is a Graduate Student from Arlington, VA pursuing a master's degree in technology strategy and business administration. He currently works with The Hackett Group as a Senior Consultant in the Strategic Finance practice. Before The Hackett Group, he spent four years with PricewaterhouseCoopers in the Data Assurance and Advisory practice. Andrew graduated from Union College in 2018 where he majored in Political Science and Biology and played lacrosse for the Dutchmen. When not on campus, he enjoys triathlon training.",
+  }
 ];
 
 export default advisorsList;
