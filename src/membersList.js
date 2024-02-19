@@ -231,6 +231,13 @@ const membersList = [
     title: "Junior Associate",
     imageName: "kaitlyn-pic.jpeg",
     bio: "Kaitlyn is a first-year from New York City studying Computer Science and Applied Mathematics. She’s interested in technology, finance, entrepreneurship, and how technology facilitates decision-making in businesses. In her free time, she enjoys cafe hopping, playing poker, and building vision boards."
+  },
+  {
+    id: 34,
+    fullName: "Jeffrey Liang",
+    title: "Junior Associate",
+    imageName: "jeff-pic.jpeg",
+    bio: "Jeffrey is a Freshmen from Shanghai, China studying computer science and economics. He has deep interests for data analytics and UI/UX design development. His hobbies include playing tennis, working out, and just being outside."
   }
 ];
 
