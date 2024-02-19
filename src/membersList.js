@@ -210,6 +210,27 @@ const membersList = [
     title: "Junior Associate",
     imageName: "santi-pic.jpg",
     bio: "Santiago is a Junior from Miami, Florida pursuing a degree in Computer Science as well as Applied Mathematics. Santiago most recently worked as a Software Developer Intern at General Motors. Outside of the classroom, Santiago enjoys playing sports and is a member of the Brown Men's Rugby Club.",
+  },
+  {
+    id: 31,
+    fullName: "Max Boyang",
+    title: "Junior Associate",
+    imageName: "max-b-pic.jpg",
+    bio: "Max is a first-year from Okemos, Michigan concentrating in applied mathematics and economics. As someone passionate about his community and those around him, Max is interested in the intersection of ESG in finance, technology, and entrepreneurship. Outside of the classroom, Max loves to bike, travel, eat good food, and make snowmen."
+  },
+  // {
+  //   id: 32,
+  //   fullName: "Carter Bedford",
+  //   title: "Junior Associate",
+  //   imageName: "santi-pic.jpg",
+  //   bio: "Carter is a sophomore from Hong Kong and Colorado, pursuing a double concentration in Economics and International & Public Affairs with a focus on policy and governance. Outside of the classroom, she is an active member of the Brown Journal of World Affairs, Women in Business, and the Brown China Summit. In her free time, Carter enjoys running, cooking, and traveling."
+  // }
+    {
+    id: 33,
+    fullName: "Kaitlyn Cheng",
+    title: "Junior Associate",
+    imageName: "kaitlyn-pic.jpeg",
+    bio: "Kaitlyn is a first-year from New York City studying Computer Science and Applied Mathematics. She’s interested in technology, finance, entrepreneurship, and how technology facilitates decision-making in businesses. In her free time, she enjoys cafe hopping, playing poker, and building vision boards."
   }
 ];
 
