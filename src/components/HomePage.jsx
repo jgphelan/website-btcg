@@ -7,7 +7,6 @@ import HomePartners from "./home-components/HomePartners";
 
 function HomePage() {
   document.title = "BTCG – Home";
-  // console.log("hi2");
 
   return (
     <div>

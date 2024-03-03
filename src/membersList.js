@@ -33,7 +33,7 @@ const membersList = [
     title: "VP of Events, Project Lead",
     imageName: "preetish-pic.jpg",
     bio: "Preetish is a sophomore from Singapore concentrating in Computer Science and Applied Mathematics-Economics. He is passionate about artificial intelligence and hopes to harness its power to innovate technological solutions. Outside of school, he is a history buff, linguaphile and karaoke enthusiast.",
-  },
+  }, 
   {
     id: 6,
     fullName: "Tony Zhao",
@@ -238,6 +238,20 @@ const membersList = [
     title: "Junior Associate",
     imageName: "jeff-pic.jpeg",
     bio: "Jeffrey is a Freshmen from Shanghai, China studying computer science and economics. He has deep interests for data analytics and UI/UX design development. His hobbies include playing tennis, working out, and just being outside."
+  },
+  {
+    id: 35,
+    fullName: "Luke Wilkinson",
+    title: "Junior Associate",
+    imageName: "luke-pic.jpg",
+    bio: "Luke is a freshman from Dedham, Massachusetts concentrating in Computer Science and Economics. His academic interests lie mainly within the financial and software realms, and he is passionate about working at the intersection of these two. Outside of the classroom, Luke enjoys windsurfing, hiking, and woodworking."
+  },
+  {
+    id: 36,
+    fullName: "Cathy Zhao",
+    title: "Junior Associate",
+    imageName: "cathy-pic.jpg",
+    bio: "Cathy is a freshman studying Applied-Math & CS. She is interested in tech and finance with a particular interest how artificial intelligence is reshaping the industries. She is also working on the Brown Entrepreneurship Tech Team and a developer at FullStack at Brown. Outside of the classroom, she enjoys painting, karaoke, and poker."
   }
 ];
 

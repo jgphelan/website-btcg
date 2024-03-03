@@ -25,6 +25,11 @@ function Navbar() {
                 The Team
               </NavLink>
             </li>
+            {/* <li className="my-nav-link">
+              <NavLink to="/past-clients" className={({ isActive }) => (isActive ? "active nav-link" : "nav-link")}>
+                Past Clients
+              </NavLink>
+            </li> */}
             <li className="my-nav-link">
               <a className="nav-link" href="mailto:btcg@brown.edu">
                 Contact

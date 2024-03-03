@@ -7,6 +7,7 @@ import Footer from "./Footer";
 import HomePage from "./HomePage";
 import TeamPage from "./TeamPage";
 import Error from "./Error";
+import PastClientsPage from "./PastClientsPage";
 
 function MyNavbar() {
   const currPath = useLocation().pathname;
@@ -25,6 +26,7 @@ function App() {
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/team" element={<TeamPage />} />
+          <Route path="/past-clients" element={<PastClientsPage />} />
 
           <Route path="*" element={<Navigate to="/404" />} />
           <Route path="/404" element={<Error />} />
