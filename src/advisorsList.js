@@ -1,3 +1,5 @@
+import { title } from "process";
+
 const advisorsList = [
   {
     id: 1,
@@ -29,20 +31,27 @@ const advisorsList = [
   },
   {
     id: 5,
+    fullName: "Ian Liu",
+    title: "Senior Advisor, Co-Founder",
+    imageName: "ian-pic.jpeg",
+    bio: "Ian is a junior from Oradell, NJ concentrating in Applied Mathematics-Computer Science with a focus in AI/ML. Interested in the intersections between finance and technology, Ian is also an analyst for the Brown Investment Group and hopes to work at a fintech company in the summer. Outside of the classroom, Ian is a member of the Brown Men's Rugby Team, and enjoys spending time with friends and trying new foods.",
+  },
+  {
+    id: 6,
     fullName: "Nicholas Alioto-Pier",
     title: "Senior Advisor, Co-Founder",
     imageName: "nico-pic.jpg",
     bio: "Nicholas is a Senior from San Francisco, CA. He is working on completing his Bachelor's and Master's in Computer Science through Brown's 4-year concurrent degree program. Nicholas is particularly interested in artificial intelligence and front-end developement. He previously worked as a Full Stack SWE Intern at MongoDB and a Front-End Intern at Whimstay, Inc. In his free time, Nicholas enjoys surfing, playing sudoku, and reading Supreme Court cases.",
   },
   {
-    id: 6,
+    id: 7,
     fullName: "William McLaren",
     title: "Senior Advisor, Co-Founder",
     imageName: "mclaren.jpeg",
     bio: "Will is a Senior from Greenwich, CT, pursuing a concentration in Computer Science with tracks in AI/ML and Data. Outside of the classroom, he is a member of the Brown Squash Team and Brown Investment Group. This summer, he will intern as a research analyst at Point72. After Brown, Will intends to pursue a career in finance. In his free time, he enjoys studying the European soccer transfer market.",
   },
   {
-    id: 7,
+    id: 8,
     fullName: "Gidget Rosen",
     title: "Senior Advisor",
     imageName: "gidget-pic.jpeg",
