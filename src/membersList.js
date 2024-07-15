@@ -1,3 +1,5 @@
+import { title } from "process";
+
 const membersList = [
   {
     id: 1,
@@ -29,73 +31,73 @@ const membersList = [
   },
   {
     id: 5,
+    fullName: "Felix Lee",
+    title: "Senior Associate",
+    imageName: "felix-pic.jpg",
+    bio: "Felix is a rising Junior from Seoul, South Korea, concentrating in Applied Mathematics - Computer Science. He has a passion for entrepreneurship, co-founding DAYGUARD—a dietary supplement venture—and POSI+EV—a poker-themed luxury streetwear brand. In his free time, Felix enjoys playing poker and training in Brazilian Jiu-Jitsu.",
+  },
+  {
+    id: 6,
     fullName: "Preetish Juneja",
     title: "Senior Associate, Project Lead",
     imageName: "preetish-pic.jpg",
     bio: "Preetish is a sophomore from Singapore concentrating in Computer Science and Applied Mathematics-Economics. He is passionate about artificial intelligence and hopes to harness its power to innovate technological solutions. Outside of school, he is a history buff, linguaphile and karaoke enthusiast.",
   },
   {
-    id: 6,
+    id: 7,
     fullName: "Maximilian Koehler",
     title: "Senior Associate",
     imageName: "max-pic.jpg",
     bio: "Max is a sophomore from Acton, MA, pursuing a double concentration in German Studies and Applied Mathematics-Economics with a focus on mathematical finance. Outside of the classroom, he is an active member of Brown’s Investment Group and German Club, as well as being a player on Brown’s developmental ultimate team, PFunk. In his free time, Max enjoys watching soccer and football with friends, value investing, hiking, cooking, and traveling.",
   },
   {
-    id: 7,
+    id: 8,
     fullName: "Anna Steffen",
     title: "Senior Associate",
     imageName: "anna-pic.jpeg",
     bio: "Anna is a Junior from Madison, CT. She is currently working towards completing her Bachelor’s of Science in Biochemistry and Molecular Biology. She is interested in eventually pursuing a career in medicine. She previously worked at BioHaven Pharmaceuticals as an intern on the clinical operations team. In her free time, Anna likes to run, travel, and ski.",
   },
   {
-    id: 8,
+    id: 9,
     fullName: "Hannah Jang",
     title: "Senior Associate",
     imageName: "hannah-pic.jpg",
     bio: "Hannah is a sophomore from Orange County, California, studying Applied Math-Economics and Computer Science. As can be seen from her concentrations, she is highly interested in the intersection of business and technology, and hopes to better explore this increasingly relevant field both inside and outside the classroom. Outside of school, she enjoys playing tennis, café hopping, and bonding with her friends.",
   },
   {
-    id: 9,
+    id: 10,
     fullName: "Allen Wang",
     title: "Senior Associate",
     imageName: "allen-pic.jpg",
     bio: "Allen is a second year studying applied math--computer science. He's interested in both artificial intelligence and entrepreneurship; specifically, Allen is looking into using machine learning to help disrupt the educational field through personalized learning styles. In his free time, he enjoys playing basketball, hiking, and reading.",
   },
   {
-    id: 10,
+    id: 11,
     fullName: "Kylash Ganesh",
     title: "Senior Associate",
     imageName: "kylash-pic.png",
     bio: "Kylash is a sophomore from Easton, MA, pursuing a dual concentration in Applied Math-Economics and Computer Science. Interested in the intersection between finance and technology, Kylash is an Analyst for the Socially Responsible Investment Fund and has attended several hackathons. He also manages a 5-figure budget and plans career-driven workshops as Head of Business for the Intercollegiate Finance Journal. Outside of the classroom, Kylash enjoys eating Italian food, playing basketball with friends, and journaling.",
   },
   {
-    id: 11,
+    id: 12,
     fullName: "Justin Dyer",
     title: "Senior Associate",
     imageName: "justin-pic.jpg",
-    bio: "Justin '25 concentrates on Environmental Studies and Economics. He is interested in enterprise software and early-stage consulting. He is curious about the application of SaaS for sustainability goals. Outside of BTCG, Justin is the founder and president of Sustainable Business Society and an active member of the Men's Rugby team."
+    bio: "Justin '25 concentrates on Environmental Studies and Economics. He is interested in enterprise software and early-stage consulting. He is curious about the application of SaaS for sustainability goals. Outside of BTCG, Justin is the founder and president of Sustainable Business Society and an active member of the Men's Rugby team.",
   },
   {
-    id: 12,
+    id: 13,
     fullName: "Sam Shulman",
     title: "Senior Associate",
     imageName: "sam-pic.jpeg",
     bio: "Sam is a Junior from Toronto, Canada. She’s studying computer science and is specifically interested in AI/ML and the UI/UX design aspect of computer-human interactions. Sam is also fascinated with Behavioral Decisions Sciences and works as a research assistant at the FeldmanHall Social and Affective Neuroscience Lab. She enjoys giving back to the community by teaching CS at local high schools and volunteering with Best Buddies. In her free time, she enjoys the outdoors and playing hockey.",
   },
   {
-    id: 13,
+    id: 14,
     fullName: "Paul Muser",
     title: "Senior Associate",
     imageName: "paul-pic.jpeg",
     bio: "Paul is a junior from Belmont, MA, pursuing a dual concentration in Business Economics and Computer Science. He is also an active member of the Brown Investment Group, where he is on the Research Committee. Recently, Paul has also gotten involved in Economics Research at Brown, where he has used Python and Stata to gather insights on the impact of Medieval Catholic Frescoes in Denmark. Outside of the classroom, Paul enjoys playing for the Brown Men's Rugby Team.",
-  },
-  {
-    id: 14,
-    fullName: "Ian Liu",
-    title: "Senior Associate",
-    imageName: "ian-pic.jpeg",
-    bio: "Ian is a junior from Oradell, NJ concentrating in Applied Mathematics-Computer Science with a focus in AI/ML. Interested in the intersections between finance and technology, Ian is also an analyst for the Brown Investment Group and hopes to work at a fintech company in the summer. Outside of the classroom, Ian is a member of the Brown Men's Rugby Team, and enjoys spending time with friends and trying new foods.",
   },
   {
     id: 15,
@@ -201,7 +203,7 @@ const membersList = [
     title: "Junior Associate",
     imageName: "santi-pic.jpg",
     bio: "Santiago is a Junior from Miami, Florida pursuing a degree in Computer Science as well as Applied Mathematics. Santiago most recently worked as a Software Developer Intern at General Motors. Outside of the classroom, Santiago enjoys playing sports and is a member of the Brown Men's Rugby Club.",
-  }
+  },
 ];
 
 export default membersList;
