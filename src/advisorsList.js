@@ -54,7 +54,14 @@ const advisorsList = [
     title: "Senior Advisor",
     imageName: "andrew-pic.png",
     bio: "Andrew is a Graduate Student from Arlington, VA pursuing a master's degree in technology strategy and business administration. He currently works with The Hackett Group as a Senior Consultant in the Strategic Finance practice. Before The Hackett Group, he spent four years with PricewaterhouseCoopers in the Data Assurance and Advisory practice. Andrew graduated from Union College in 2018 where he majored in Political Science and Biology and played lacrosse for the Dutchmen. When not on campus, he enjoys triathlon training.",
-  }
+  },
+  {
+    id: 9,
+    fullName: "Abhi Tripathi",
+    title: "Senior Advisor",
+    imageName: "abhi-pic.jpg",
+    bio: "Abhi is a senior concentrating in Applied Mathematics - Economics with a focus on optimization and data analytics. He has deep interests in entrepreneurship and investing and pursues them through his venture, Bonsai, and as part of the Brown Investment Group. In his free time, Abhi loves to be outdoors, whether it be through hiking, kayaking, or playing sports with his friends.",
+  },
 ];
 
 export default advisorsList;
